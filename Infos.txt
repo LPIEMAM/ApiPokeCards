@@ -1,0 +1,16 @@
+Database : psqt_pokecards_am
+user : psqt_pokecards
+pwd : pokecards_root
+localhost : psqt.myd.infomaniak.com
+
+Fonctionnalités :
+- Gérer les collections, voir les cartes possédées ou non.
+- Rechercher par nom, par "chromatique" (shiny), par caractéristique, par type, par génération.
+- Affichage carte / caractéristiques du pokemon.
+- Options de connexion (FB ou Gmail).
+- Niveau de joueur : xp.
+- Quêtes journalières : xp, Pokesous, poussières de carte...
+- Echange de cartes limité.
+- Ajouter des amis.
+- Comment intéragir avec ses amis ? Cadeaux ?
+- Combats pokemon
